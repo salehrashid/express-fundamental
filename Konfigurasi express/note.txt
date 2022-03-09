@@ -1,0 +1,3 @@
+cara konfigurasi di express itu ada 2
+1. in app configuration 
+2. external configuration
